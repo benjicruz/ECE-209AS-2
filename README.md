@@ -1,4 +1,4 @@
-# ECE-209AS-2
+# ECE-209AS Secure and Trustworthy Edge Computing Systems
 Repo containing homework and projects for ECE 209AS - Secure and Trustworthy Edge Computing Systems Winter 2024 taken with Professor Nader Sehatbakhsh
 
 | Assignment | Score | 
